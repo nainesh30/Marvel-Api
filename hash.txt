@@ -1,0 +1,17 @@
+md5 
+36846fa943e4c702fb10e7dc969099b0
+
+
+
+end point 
+http://gateway.marvel.com/v1/public/comics?ts=1&apikey=560cad3d40550d8a366041d9af707f0c&hash=36846fa943e4c702fb10e7dc969099b0
+
+
+
+
+
+name start with for search 
+
+http://gateway.marvel.com/v1/public/characters?nameStartsWith=hu&ts=1&apikey=560cad3d40550d8a366041d9af707f0c&hash=36846fa943e4c702fb10e7dc969099b0
+
+a

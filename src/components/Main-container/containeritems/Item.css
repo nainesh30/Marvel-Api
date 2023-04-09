@@ -1,0 +1,30 @@
+.item{
+margin: 10px;
+padding: 10px;
+border: 2px solid red;
+text-align: left;
+color: #ff00c4;
+font-family: 'Times New Roman', Times, serif;
+font-size: 25px;
+height: auto;
+overflow: hidden;
+transition-duration: 1s;
+
+}
+
+.item:hover{
+
+    background: #3a3939;
+    translate: 0px -4px;
+
+}
+span{
+
+    color: azure;
+}
+
+.item img{
+    margin-left: 20%;
+    size: 10px;
+    height: 201px;
+}

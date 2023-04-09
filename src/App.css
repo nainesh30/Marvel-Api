@@ -1,3 +1,15 @@
+*{
+
+  margin: 0;
+}
+
+body{
+
+  background-color:black;
+  color: white;
+
+}
+
 .App {
   text-align: center;
 }
@@ -14,7 +26,6 @@
 }
 
 .App-header {
-  background-color: #282c34;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -36,3 +47,5 @@
     transform: rotate(360deg);
   }
 }
+
+
